@@ -1,0 +1,1 @@
+GameConf = require("game.conf")

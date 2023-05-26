@@ -1,0 +1,7 @@
+class = require("framework/common/30log")
+lume = require("framework/common/lume")
+cargo = require("framework/common/cargo")
+lurker = require("framework/common/lurker")
+gamestate = require("framework/common/gamestate")
+notification = require("framework/common/notification")
+lust = require("framework.common.lust")
